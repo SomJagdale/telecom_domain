@@ -1,4 +1,5 @@
 # telecom_domain
+
 5g - 5th Generation
 5g nsa - 5g Non Standalone 
 5gnsa
@@ -68,3 +69,8 @@ Supported Features -> Feature List -> NR as secondary RAT
 
 ULA
 Subscription Data -> AMBR -> Extended Max Req Bandwidth
+
+
+Techmahindra (Telecom Domain) Interview Preperation 
+Telecom CO
+
