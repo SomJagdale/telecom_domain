@@ -1,0 +1,25 @@
+
+5G Architecture 
+
+Controll plane functions
+AMF - Access management function
+SMF - session management function
+UDM - User data function 
+PCF - policy control function 
+AF - application function 
+NSSF - network slice selection function 
+AUSF - authontication function 
+NEF - Network exposure function 
+NRF - Network registry funciton 
+
+Data plane
+UPF - User Plan function 
+DN - Data network 
+
+
+
+RAN - Radio access network 
+E-UITRAN - RAN + eNODEb + gNodeb
+
+Service based architecture
+
